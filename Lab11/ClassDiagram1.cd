@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab11.Program">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAABAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab11.TestCollections">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAIAAA0AsABAAAAAAAABAAAAAAQAAAIgA=</HashCode>
+      <FileName>TestCollections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10.MusicalInstrument">
+    <Position X="15.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab10.Guitar">
+    <Position X="18.25" Y="3.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Lab10.Piano">
+    <Position X="13.25" Y="3.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Lab10.ElectricGuitar">
+    <Position X="20.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Lab10.IInit">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
