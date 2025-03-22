@@ -50,3 +50,4 @@ C:\University\Proga\Laboratory work 11\Lab11\Lab11\obj\Debug\net8.0\Lab11.genrun
 C:\University\Proga\Laboratory work 11\Lab11\Lab11\obj\Debug\net8.0\ref\Lab11.dll
 D:\University\Proga\Laboratory work 11\Lab11\Lab11\bin\Debug\net8.0\ClassLibraryLab9.dll
 D:\University\Proga\Laboratory work 11\Lab11\Lab11\bin\Debug\net8.0\ClassLibraryLab9.pdb
+D:\University\Proga\Laboratory work 11\Lab11\Lab11\obj\Debug\net8.0\Lab11.sourcelink.json
