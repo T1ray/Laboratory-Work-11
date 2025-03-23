@@ -192,7 +192,7 @@ namespace Lab11
             bool found = instrumentSet.Contains(searchInstrument);
             Console.WriteLine(found
                 ? $"Элемент {searchInstrument} найден"
-                : "Элемент не найден 1");
+                : "Элемент не найден");
         }
         
         static void Task3()

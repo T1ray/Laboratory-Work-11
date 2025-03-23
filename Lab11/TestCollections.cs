@@ -79,12 +79,12 @@ namespace Lab11
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 col1.Contains(searchedElement);
             }
             sw.Stop();
-            long averageTicks = sw.ElapsedTicks / 100;
+            double averageTicks = (double)sw.ElapsedTicks / 1000;
             Console.WriteLine($"Queue<Guitar> - {elementDescription}: {averageTicks} тиков");
         }
 
@@ -92,12 +92,12 @@ namespace Lab11
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 col2.Contains(searchedElement.ToString());
             }
             sw.Stop();
-            long averageTicks = sw.ElapsedTicks / 100;
+            double averageTicks = (double)sw.ElapsedTicks / 1000;
             Console.WriteLine($"Queue<string> - {elementDescription}: {averageTicks} тиков");
         }
 
@@ -105,12 +105,12 @@ namespace Lab11
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 col3.Contains(searchedElement.GetBase);
             }
             sw.Stop();
-            long averageTicks = sw.ElapsedTicks / 100;
+            double averageTicks = (double)sw.ElapsedTicks / 1000;
             Console.WriteLine($"SortedSet<MusicalInstrument> - {elementDescription}: {averageTicks} тиков");
         }
 
@@ -118,12 +118,12 @@ namespace Lab11
         {
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 col4.Contains(searchedElement.ToString());
             }
             sw.Stop();
-            long averageTicks = sw.ElapsedTicks / 100;
+            double averageTicks = (double)sw.ElapsedTicks / 1000;
             Console.WriteLine($"SortedSet<string> - {elementDescription}: {averageTicks} тиков");
         }
     }
