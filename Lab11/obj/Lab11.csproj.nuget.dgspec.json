@@ -4,14 +4,14 @@
     "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Lab11\\Lab11.csproj": {}
   },
   "projects": {
-    "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+    "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj",
         "projectName": "AdditionalFunctions",
-        "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj",
         "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\obj\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+    "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
         "projectName": "ClassLibraryLab10",
-        "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
         "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\obj\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,17 +98,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+    "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
         "projectName": "ClassLibraryLab9",
-        "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
         "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab9\\obj\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +176,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\AdditionalFunctions\\AdditionalFunctions.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj": {
+    "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj",
         "projectName": "CommonClasses",
-        "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj",
         "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\obj\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -287,14 +287,14 @@
         }
       }
     },
-    "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj": {
+    "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\obj\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -381,14 +381,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
               },
-              "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
+              },
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj"
+              },
+              "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj"
               }
             }
           }

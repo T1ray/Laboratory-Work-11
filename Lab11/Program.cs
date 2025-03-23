@@ -2,8 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Lab10;
 using static AdditionalFunctions.AdditionalFunctions;
+using Lab10;
 
 namespace Lab11
 {
@@ -102,8 +102,8 @@ namespace Lab11
             MusicalInstrument searchInstrument = new Guitar(6, 2);
             bool found = queue.Contains(searchInstrument);
             Console.WriteLine(found
-                ? $"Элемент найден в очереди(Queue)"
-                : "Элемент не найден");
+                ? $"Элемент {searchInstrument} найден в очереди"
+                : $"Элемент {searchInstrument} не найден в очереди");
         }
         
         static void Task2()

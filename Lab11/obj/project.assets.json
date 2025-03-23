@@ -68,33 +68,35 @@
   "libraries": {
     "AdditionalFunctions/1.0.0": {
       "type": "project",
-      "path": "../../../Laboratory work 10/Lab10/AdditionalFunctions/AdditionalFunctions.csproj",
-      "msbuildProject": "../../../Laboratory work 10/Lab10/AdditionalFunctions/AdditionalFunctions.csproj"
+      "path": "../AdditionalFunctions/AdditionalFunctions.csproj",
+      "msbuildProject": "../AdditionalFunctions/AdditionalFunctions.csproj"
     },
     "ClassLibraryLab10/1.0.0": {
       "type": "project",
-      "path": "../../../Laboratory work 10/Lab10/ClassLibraryLab10/ClassLibraryLab10.csproj",
-      "msbuildProject": "../../../Laboratory work 10/Lab10/ClassLibraryLab10/ClassLibraryLab10.csproj"
+      "path": "../ClassLibraryLab10/ClassLibraryLab10.csproj",
+      "msbuildProject": "../ClassLibraryLab10/ClassLibraryLab10.csproj"
     },
     "ClassLibraryLab9/1.0.0": {
       "type": "project",
-      "path": "../../../Laboratory work 10/Lab10/ClassLibraryLab9/ClassLibraryLab9.csproj",
-      "msbuildProject": "../../../Laboratory work 10/Lab10/ClassLibraryLab9/ClassLibraryLab9.csproj"
+      "path": "../ClassLibraryLab9/ClassLibraryLab9.csproj",
+      "msbuildProject": "../ClassLibraryLab9/ClassLibraryLab9.csproj"
     },
     "CommonClasses/1.0.0": {
       "type": "project",
-      "path": "../../../Laboratory work 10/Lab10/CommonClasses/CommonClasses.csproj",
-      "msbuildProject": "../../../Laboratory work 10/Lab10/CommonClasses/CommonClasses.csproj"
+      "path": "../CommonClasses/CommonClasses.csproj",
+      "msbuildProject": "../CommonClasses/CommonClasses.csproj"
     },
     "Interfaces/1.0.0": {
       "type": "project",
-      "path": "../../../Laboratory work 10/Lab10/Interfaces/Interfaces.csproj",
-      "msbuildProject": "../../../Laboratory work 10/Lab10/Interfaces/Interfaces.csproj"
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AdditionalFunctions >= 1.0.0",
       "ClassLibraryLab10 >= 1.0.0",
+      "ClassLibraryLab9 >= 1.0.0",
       "CommonClasses >= 1.0.0",
       "Interfaces >= 1.0.0"
     ]
@@ -132,14 +134,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
-              "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
+            "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+              "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\AdditionalFunctions\\AdditionalFunctions.csproj"
             },
-            "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj": {
-              "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\CommonClasses\\CommonClasses.csproj"
+            "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+              "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
             },
-            "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "D:\\University\\Proga\\Laboratory work 10\\Lab10\\Interfaces\\Interfaces.csproj"
+            "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+              "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
+            },
+            "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj": {
+              "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\CommonClasses\\CommonClasses.csproj"
+            },
+            "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\University\\Proga\\Laboratory work 11\\Lab11\\Interfaces\\Interfaces.csproj"
             }
           }
         }

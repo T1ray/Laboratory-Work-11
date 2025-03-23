@@ -8,9 +8,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\..\Laboratory work 10\Lab10\ClassLibraryLab10\ClassLibraryLab10.csproj" />
-      <ProjectReference Include="..\..\..\Laboratory work 10\Lab10\CommonClasses\CommonClasses.csproj" />
-      <ProjectReference Include="..\..\..\Laboratory work 10\Lab10\Interfaces\Interfaces.csproj" />
+      <ProjectReference Include="..\AdditionalFunctions\AdditionalFunctions.csproj" />
+      <ProjectReference Include="..\ClassLibraryLab10\ClassLibraryLab10.csproj" />
+      <ProjectReference Include="..\ClassLibraryLab9\ClassLibraryLab9.csproj" />
+      <ProjectReference Include="..\CommonClasses\CommonClasses.csproj" />
+      <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
     </ItemGroup>
 
 </Project>
