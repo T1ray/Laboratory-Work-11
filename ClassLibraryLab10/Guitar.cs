@@ -69,7 +69,7 @@ public class Guitar : MusicalInstrument
     {
         if (obj is Guitar guitar)
         {
-            return Name == guitar.Name && NumberStrings == guitar.NumberStrings;
+            return Name == guitar.Name && NumberStrings == guitar.NumberStrings && Id.Id == guitar.Id.Id;
         }
         return false;
     }
